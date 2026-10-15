@@ -80,7 +80,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
               </div>
               <p className="font-serif-title text-lg text-[#1A3636]">Your bag is empty</p>
               <p className="text-xs max-w-xs text-[#5F6B6C]">
-                Explore our handcrafted bridal and fine jewelry pieces to begin your order.
+                Explore our occasional and fine jewelry pieces to begin your order.
               </p>
               <button
                 onClick={onClose}

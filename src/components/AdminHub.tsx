@@ -300,7 +300,7 @@ export const AdminHub: React.FC<AdminHubProps> = ({
         </form>
 
         <div className="pt-3 border-t border-gray-100 text-[11px] text-gray-400 text-center">
-          Default credentials: <code className="text-[#1A3636] font-mono font-bold">owner</code> / <code className="text-[#1A3636] font-mono font-bold">admin123</code>
+          Default credentials: <code className="text-[#1A3636] font-mono font-bold">owner</code> / <code className="text-[#1A3636] font-mono font-bold">LC292001</code>
         </div>
       </div>
     );

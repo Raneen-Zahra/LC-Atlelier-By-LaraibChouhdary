@@ -52,7 +52,7 @@ export const HeroBanner: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden shadow-lg border-2 border-[#E5DFD5] aspect-4/3 bg-gray-100">
               <img
-                src=""
+                src="assets/occasional-sets.jpg"
                 alt="Occasional Sets"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
